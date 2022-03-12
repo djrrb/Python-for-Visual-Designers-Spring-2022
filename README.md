@@ -5,6 +5,7 @@
 * _Dates:_ Thursdays 6:30–8:30pm ET, Mar. 17 – April 14, May. 19, 2022
 * _Instructor:_ [David Jonathan Ross](https://djr.com)
 * _Office Hours:_ [Book on Calendly](http://calendly.com/djrrb/office-hours) or get in touch
+* Syllabus: [Github](https://github.com/djrrb/python-for-visual-designers-spring-2022) [Dropbox](https://www.dropbox.com/sh/y09z6eithw74a6y/AACmjupt7JG-jyGt0PyiPGVRa?dl=0)
 
 ## Course Description
 
