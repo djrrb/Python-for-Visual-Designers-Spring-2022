@@ -1,8 +1,8 @@
 # Python For Visual Designers
 
 * [Type@Cooper Public Workshop](http://coopertype.org/event/python_for_visual_designers_fall2021)
-* _Term:_ Fall 2021
-* _Dates:_ Thursdays 6:30–8:30pm ET, October 21 – November 18, December 16
+* _Term:_ Spring 2022
+* _Dates:_ Thursdays 6:30–8:30pm ET, Mar. 17 – April 14, May. 19, 2022
 * _Instructor:_ [David Jonathan Ross](https://djr.com)
 * _Office Hours:_ [Book on Calendly](http://calendly.com/djrrb/office-hours) or get in touch
 
@@ -22,13 +22,14 @@ Using the fundamentals of the Python programming language, students will sketch 
 ### Software
 
 * [Drawbot](https://www.drawbot.com)
+* [Terminal](https://support.apple.com/guide/terminal/welcome/mac) (already installed on your Mac)
 * A coding font of your choice!
 
 ### Course structure
 
 Most of class time will be spent coding together in the Drawbot app. In between courses, students are encouraged to practice the skills learned during class and experiment with them. 
 
-Between the third and fifth class sessions, each student will be asked to work on a few spreads that we will turn into a collective zine.
+Between the fourth and final class sessions, each student will be asked to work on a few spreads that we will turn into a collective zine.
 
 Beyond the nuts and bolts of Python programming, I hope students use this opportunity to step back and consider how Python/Drawbot might affect their relationship with their tools. I will provide Optional readings and links for students that explore this topic at their leisure, even though they may not relate directly to the course materials.
 
@@ -39,14 +40,13 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 ## Course Outline
 | Session | Date | Subject |
 | ---- | ---- | -------------- | 
-| 1   | October 21 | [**Shapes and Loops**](#Session-1-Shapes-and-Loops) | 
-| 2   | October 28 | [**Colors and Text**](#Session-2-Colors-and-Text) | 
-| 3   | November 4 | [**Canvas and Images**](#Session-3-Paths-and-Images) | 
-| | _Clocks back!_ |
-| 4   | November 11 | [**Layouts**](#Session-4-Layouts) |
-| 5   | November 18 | [**Animation**](#Session-5-Animation)|
+| 1   | March 17 | [**Shapes and Loops**](#Session-1-Shapes-and-Loops) | 
+| 2   | March 24 | [**Colors and Text**](#Session-2-Colors-and-Text) | 
+| 3   | March 31 | [**Canvas and Images**](#Session-3-Paths-and-Images) | 
+| 4   | April 7 | [**Layouts**](#Session-4-Layouts) |
+| 5   | April 14 | [**Animation**](#Session-5-Animation)|
 |  | 
-| 6   | December 16 | Follow-up session |
+| 6   | May 19 | Follow-up session |
 
 
 ## Sessions
@@ -54,21 +54,24 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 ### Session 1: Shapes and Loops
 
 * Introductions
+* Python basics in Terminal
+    * `'hello world'`
+    * math
+    * strings
+    * comments
+    * variables
+    * changing variables
+    * loops
 * The Drawbot interface
-* Keyboard shortcuts
-* Hello world
-* Math
-* Strings
-* Comments
-* Variables
+    * Keyboard shortcuts
 * Drawbot primitives ([docs](https://www.drawbot.com/content/shapes/primitives.html))
-* Loops
+* `width()` and `height()`
+* Grids
 * Conditions
 
 #### Session links
 
 * [**Session 1 scripts**](/session-1)
-
 
 #### Optional readings
 * [The Zen of Python](https://www.python.org/dev/peps/pep-0020/#easter-egg)
