@@ -41,9 +41,9 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 ## Course Outline
 | Session | Date | Subject |
 | ---- | ---- | -------------- | 
-| 1   | March 17 | [**Shapes and Loops**](#Session-1-Shapes-and-Loops) | 
-| 2   | March 24 | [**Colors and Text**](#Session-2-Colors-and-Text) | 
-| 3   | March 31 | [**Canvas and Images**](#Session-3-Paths-and-Images) | 
+| 1   | March 17 | [**Loops and Shapes**](#Session-1-Loops-and-Shapes) | 
+| 2   | March 24 | [**Object and Canvas**](#Session-2-Object-and-Canvas) | 
+| 3   | March 31 | [**Text and Images**](#Session-3-Text-and-Images) | 
 | 4   | April 7 | [**Layouts**](#Session-4-Layouts) |
 | 5   | April 14 | [**Animation**](#Session-5-Animation)|
 |  | 
@@ -52,7 +52,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 
 ## Sessions
 
-### Session 1: Shapes and Loops
+### Session 1: Loops and Shapes
 
 * Introductions
 * Python basics in Terminal
@@ -84,7 +84,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * [Drawbot icon by Andy Clymer](https://www.drawbot.com/content/drawBotIcon.html)
  
 
-### Session 2: Colors and Text
+### Session 2: Object and Canvas
 
 * _Review_
 * _Show & Tell_
@@ -113,7 +113,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 * [Python colorsys module](https://docs.python.org/3/library/colorsys.html)
 
 
-### Session 3: Paths and Images
+### Session 3: Text and Image
 
 * _Review_
 * _Show & Tell_
