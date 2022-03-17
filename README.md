@@ -23,7 +23,6 @@ Using the fundamentals of the Python programming language, students will sketch 
 ### Software
 
 * [Drawbot](https://www.drawbot.com)
-* [Terminal](https://support.apple.com/guide/terminal/welcome/mac) (already installed on your Mac)
 * A coding font of your choice!
 
 ### Course structure
@@ -55,7 +54,7 @@ This Type@Cooper course was originated by [Andy Clymer](http://www.andyclymer.co
 ### Session 1: Loops and Shapes
 
 * Introductions
-* Python basics in Terminal
+* Python basics
     * `'hello world'`
     * math
     * strings
