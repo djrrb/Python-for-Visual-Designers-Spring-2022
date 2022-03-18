@@ -1,7 +1,7 @@
 # make a donut
 
 # define the thickness of the donut
-thickness = 200
+thickness = 300
 
 # draw a big circle on the outside, make it black
 # use width() and height() to make the circle the full size of the page
