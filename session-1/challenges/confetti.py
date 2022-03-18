@@ -27,3 +27,5 @@ for myShape in range(myShapeCount):
         myShapeSize, # width
         myShapeSize # heiht
         )
+
+saveImage('confetti.png')
