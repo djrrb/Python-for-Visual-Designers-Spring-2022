@@ -40,3 +40,6 @@ for myRow in range(myRows):
         # now we are drawing from the left of the canvas again
         # and can move up on the canvas to draw the next row
     translate(0, myRowHeight)
+    
+# dedent again to save once
+saveImage('grid.png')
