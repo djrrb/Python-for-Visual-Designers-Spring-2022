@@ -9,7 +9,7 @@ myCenterMargin = 10
 debug = False
 
 # define the logo image
-myLogoImage = ImageObject('../logo.png')
+myLogoImage = ImageObject('logo.png')
 
 # a function that draws a single card
 def drawCard(row, box):
