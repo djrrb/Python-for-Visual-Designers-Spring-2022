@@ -1,0 +1,5 @@
+translate(50, 50)
+stroke(1, 0, 0)
+strokeWidth(15)
+fill(None)
+rect(0, 0, 100, 100)
