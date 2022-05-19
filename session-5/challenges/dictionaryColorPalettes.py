@@ -20,7 +20,6 @@ myColorPalettes = {
             'background': (0, 0, 0),
             'highlight': (0, 1, 0)
             },
-            
     'funkyMode':
         {
             'foreground': (.8, 1, .8),
